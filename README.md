@@ -1,5 +1,5 @@
 # SparkNGO
-The Sparks Foundation Task #5 -- Payment Gateway Integration 
+The Sparks Foundation Task #3 -- Payment Gateway Integration 
 
 Frontend: HTML,CSS,JS,Bootstrap
 Backend:PHP
